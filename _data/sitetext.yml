@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our Shop!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Here to serve the Napa County"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Vinyl Wrap"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Automotive customization"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Auto Services/Maintinance"
+        desc: "Over **20 years of automotive maintinance experience, Oil Change, repairs and more "
         icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Latest projects at Abners Garage"
     section: portfolio
     closebutton: "Close Project"
 
@@ -45,23 +45,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "1983"
+        desc: "Experience with Hugo Solis began in Napap Valley serving as a privaetly owned autobody and paint shop. Specialized in full paintjobs of classic vehicles."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Torch is passed on"
+        year: "March 2017"
+        desc: "Hugo Solis's Skills and knowledge is passed onto his son Abner Solis with their first joint project a 1982 Toyota Pickup Truck"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "2020"
+        year: "2020"
+        desc: "Abner Solis founded Abnersgarage with the help of his father Hugo, were a major car project will soon begin. Soon after Vinyl wrap services were included into the brand"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        year: "2020-present"
+        desc: "The start of the worlds first Mercedes r107 and r171 chassis swap began in the garage."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "AbnersGarage started as a passion project fueled by a love for cars and creativity. What began on YouTube as a way to share car builds and DIY tips quickly grew into something bigger—a trusted name for custom vinyl wrap services. Our mission is simple: transform vehicles into unique works of art while sharing the journey with an amazing community of car enthusiasts. Whether it’s a full color change, custom graphics, or showcasing the latest projects on our channel, AbnersGarage is all about precision, style, and passion for the automotive world"
     section: about
 
   clients:

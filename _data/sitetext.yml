@@ -117,9 +117,7 @@ en: &DEFAULT_EN
       - name: "Noe Cigarroa"
         role: "Vinyl Wrap Technician"
         image: assets/img/team/500x500.jpg
-        social:
-           - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+       
 
   contact:
     title: "Contact Us"

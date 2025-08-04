@@ -139,9 +139,9 @@ en: &DEFAULT_EN
     social:
      - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+        - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://instagram.com
+         - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN

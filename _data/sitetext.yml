@@ -118,7 +118,7 @@ en: &DEFAULT_EN
         role: "Vinyl Wrap Technician"
         image: assets/img/team/500x500.jpg
         social:
-        - url: https://linkedin.com
+           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:

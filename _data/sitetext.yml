@@ -11,15 +11,16 @@ en:
     section: services
     list:
       - title: Vinyl Wrap
-        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call for a free qoute!
+        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call
+          for a free qoute!
         icon: fas fa-shopping-cart
       - title: Automotive customization
-        desc: Offering aftermarket installation for vehicles including, lights suspension and more. 
-          
+        desc: Offering aftermarket installation for vehicles including, lights
+          suspension and more.
         icon: fas fa-laptop
       - title: Auto Services/Maintinance
-        desc: "Over **20** years of automotive maintinance experience, Oil Change, repairs
-          and more "
+        desc: "Over **20** years of automotive maintinance experience, Oil Change,
+          repairs and more "
         icon: fab fa-markdown
   portfolio:
     title: Portfolio
@@ -374,7 +375,7 @@ en-CA:
     legal: Privacy Policy
     social:
       - url: https://instagram.com
-         icon: fab fa-instagram
+        icon: fab fa-instagram
 en-GB:
   header:
     title: Welcome to our Shop!

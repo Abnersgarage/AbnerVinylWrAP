@@ -221,7 +221,7 @@ es: &DEFAULT_ES
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/creative-market.jpg  
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"

@@ -98,40 +98,36 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Abner Solis"
+        role: "CEO/Founder"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+         
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Hugo Solis"
+        role: "Lead Specialist/ Co-Founder"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+         
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Noe Cigarroa"
+        role: "Vinyl Wrap Technician"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+         
+                   - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Text or call for a free qoute! 707-624-0045 "
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

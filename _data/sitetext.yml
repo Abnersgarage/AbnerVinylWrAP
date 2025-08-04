@@ -102,8 +102,7 @@ en: &DEFAULT_EN
         role: "CEO/Founder"
         image: assets/img/team/500x500.jpg
         social:
-         
-            icon: fab fa-twitter
+          icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -112,7 +111,6 @@ en: &DEFAULT_EN
         role: "Lead Specialist/ Co-Founder"
         image: assets/img/team/2.jpg
         social:
-         
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -121,8 +119,7 @@ en: &DEFAULT_EN
         role: "Vinyl Wrap Technician"
         image: assets/img/team/500x500.jpg
         social:
-         
-                   - url: https://linkedin.com
+        - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:
@@ -143,12 +140,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-     
-      - url: https://facebook.com
+     - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:

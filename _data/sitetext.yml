@@ -101,20 +101,12 @@ en: &DEFAULT_EN
       - name: "Abner Solis"
         role: "CEO/Founder"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+       
       - name: "Hugo Solis"
         role: "Lead Specialist/ Co-Founder"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Noe Cigarroa"
+       
+        - name: "Noe Cigarroa"
         role: "Vinyl Wrap Technician"
         image: assets/img/team/500x500.jpg
        
@@ -137,10 +129,6 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-     - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-        - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
          - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:

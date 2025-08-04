@@ -124,7 +124,7 @@ en:
     legal: Privacy Policy
     social:
       - url: https://instagram.com
-       icon: fab fa-instagram
+        icon: fab fa-instagram
 en-US:
   header:
     title: Welcome to our Shop!

@@ -98,15 +98,15 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Abner Solis"
+   - name: "Abner Solis"
         role: "CEO/Founder"
         image: assets/img/team/500x500.jpg
-      - name: "Hugo Solis"
+   - name: "Hugo Solis"
         role: "Lead Specialist/ Co-Founder"
         image: assets/img/team/2.jpg 
-        - name: "Noe Cigarroa"
-         role: "Vinyl Wrap Technician"
-         image: assets/img/team/500x500.jpg
+   - name: "Noe Cigarroa"
+        role: "Vinyl Wrap Technician"
+        image: assets/img/team/500x500.jpg
        
 
   contact:

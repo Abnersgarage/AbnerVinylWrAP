@@ -11,15 +11,14 @@ en:
     section: services
     list:
       - title: Vinyl Wrap
-        desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
-          quam architecto quo inventore harum ex magni, dicta impedit.
+        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call for a free qoute!
         icon: fas fa-shopping-cart
       - title: Automotive customization
-        desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
-          quam architecto quo inventore harum ex magni, dicta impedit.
+        desc: Offering aftermarket installation for vehicles including, lights suspension and more. 
+          
         icon: fas fa-laptop
       - title: Auto Services/Maintinance
-        desc: "Over **20 years of automotive maintinance experience, Oil Change, repairs
+        desc: "Over **20** years of automotive maintinance experience, Oil Change, repairs
           and more "
         icon: fab fa-markdown
   portfolio:

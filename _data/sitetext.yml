@@ -99,7 +99,7 @@ en:
     people:
       - name: Abner Solis
         role: CEO/Founder
-        image: assets/img/team/500x500.jpg
+        image: 
       - name: Hugo Solis
         role: Lead Specialist/ Co-Founder
         image: assets/img/team/2.jpg
@@ -124,7 +124,7 @@ en:
     legal: Privacy Policy
     social:
       - url: https://instagram.com
-icon: fab fa-instagram
+       icon: fab fa-instagram
 en-US:
   header:
     title: Welcome to our Shop!

@@ -97,6 +97,7 @@ en: &DEFAULT_EN
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
+        image: assests/img/3m.png
 
 
   team:

@@ -246,6 +246,7 @@ en-US:
     legal: Privacy Policy
     social:
       - url: https://instagram.com
+       icon: fab fa-instagram
 es:
   header:
     title: ¡Bienvenido a nuestro Estudio!

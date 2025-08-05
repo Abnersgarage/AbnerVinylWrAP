@@ -36,7 +36,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Latest completed projects! "
     section: portfolio
     closebutton: "Close Project"
 
@@ -47,24 +47,30 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: Our Humble Beginnings
+        year: "1983"
+        desc: Experience with Hugo Solis began in Napap Valley serving as a privaetly
+          owned autobody and paint shop. Specialized in full paintjobs of
+          classic vehicles.
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        alt: null
+      - title: The Torch is passed on
+        year: March 2017
+        desc: Hugo Solis's Skills and knowledge is passed onto his son Abner Solis with
+          their first joint project a 1982 Toyota Pickup Truck
         image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        alt: null
+      - title: "2020"
+        year: "2020"
+        desc: Abner Solis founded Abnersgarage with the help of his father Hugo, were a
+          major car project will soon begin. Soon after Vinyl wrap services were
+          included into the brand
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: Title
+        year: 2020-present
+        desc: The start of the worlds first Mercedes r107 and r171 chassis swap began in
+          the garage.
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment

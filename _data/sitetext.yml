@@ -234,7 +234,7 @@ en-US:
         image: assets/img/team/500x500.jpg
   contact:
     title: Contact Us
-    text: "<span class='highlight-quote'>Text or call for a free quote! 707-624-0045</span>"
+    text: "<span style='color: #ff4c4c; font-weight: bold;'>Text or call for a free quote! 707-624-0045</span>"
     section: contact
     name: Name*
     name-validation: Please enter your name.

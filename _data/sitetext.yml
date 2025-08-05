@@ -7,7 +7,7 @@ en:
     buttonlink: "#services"
   services:
     title: Services
-    text: Here to serve the Napa County
+    text: Here to serve Napa County with your automotive needs!
     section: services
     list:
       - title: Vinyl Wrap
@@ -133,20 +133,19 @@ en-US:
     buttonlink: "#services"
   services:
     title: Services
-    text: Here to serve the Napa County
+    text: Here to serve Napa County with your automotive needs
     section: services
     list:
       - title: Vinyl Wrap
-        desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
-          quam architecto quo inventore harum ex magni, dicta impedit.
+        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call
+          for a free qoute!
         icon: fas fa-shopping-cart
       - title: Automotive customization
-        desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
-          quam architecto quo inventore harum ex magni, dicta impedit.
+        desc: Offering aftermarket installation for vehicles including, lights
         icon: fas fa-laptop
       - title: Auto Services/Maintinance
-        desc: "Over **20 years of automotive maintinance experience, Oil Change, repairs
-          and more "
+        desc: "Over **20** years of automotive maintinance experience, Now offering Mobile Oil Change, repairs
+          and more from the comfort of your home! "
         icon: fab fa-markdown
   portfolio:
     title: Portfolio
@@ -155,7 +154,7 @@ en-US:
     closebutton: Close Project
   timeline:
     title: Timeline
-    text: Lorem ipsum timeline
+    text: How AbnersGarage began
     section: timeline
     events:
       - title: Our Humble Beginnings
@@ -217,10 +216,8 @@ en-US:
         logo: assets/img/clients/creative-market.jpg
   team:
     title: OUR AMAZING TEAM
-    text: Lorem ipsum dolor sit amet consectetur.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
-      alias ut unde. **Markdown** supported.
+    text: Combined experience from all trades! 
+    subtext: Here to serve the county with excellence and effective automotive needs! 
     section: team
     people:
       - name: Abner Solis

@@ -120,13 +120,13 @@ en:
     message-validation: Please enter a message.
     subject: Contact Form Submission
     submit: Send Message
-footer:
+ footer:
   legal: Privacy Policy
-social:
+ social:
   - url: https://instagram.com
     icon: fab fa-instagram
 
-en-US:
+ en-US:
   header:
     title: Welcome to our Shop!
     text: It's Nice To Meet You

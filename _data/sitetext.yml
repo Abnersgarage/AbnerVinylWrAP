@@ -71,7 +71,14 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "AbnersGarage started as a passion project fueled by a love for cars and
+      creativity. What began on YouTube as a way to share car builds and DIY
+      tips quickly grew into something bigger—a trusted name for custom vinyl
+      wrap services. Our mission is simple: transform vehicles into unique works
+      of art while sharing the journey with an amazing community of car
+      enthusiasts. Whether it’s a full color change, custom graphics, or
+      showcasing the latest projects on our channel, AbnersGarage is all about
+      precision, style, and passion for the automotive world"
     section: about
 
   clients:

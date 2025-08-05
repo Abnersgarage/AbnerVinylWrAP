@@ -11,24 +11,27 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to AbnersGarage!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Here to serve Napa County with your automotive needs!"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: Vinyl Wrap
+        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call
+          for a free qoute!
+        icon: fas fa-shopping-cart
+      - title: Automotive customization
+        desc: Offering aftermarket installation for vehicles including lights
+          suspension and more.
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: Auto Services/Maintenance
+        desc: "Over **20** years of automotive maintenance experience, Oil Change,
+          repairs and more "
         icon: fab fa-markdown
 
   portfolio:

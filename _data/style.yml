@@ -7,10 +7,3 @@
 header-image: "../img/home.jpeg"
 contact-image: "../img/garage.jpeg"
 
-".highlight-quote {color":
-  font-weight: bold;
-  font-size: 1.3em;
-  background-color: null
-  padding: 8px 12px;
-  border-radius: 6px;
-  display: inline-block;}

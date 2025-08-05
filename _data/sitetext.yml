@@ -122,9 +122,10 @@ en:
     submit: Send Message
   footer:
     legal: Privacy Policy
-    social:
+  social:
       - url: https://instagram.com
         icon: fab fa-instagram
+
 en-US:
   header:
     title: Welcome to our Shop!

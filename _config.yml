@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : "<span style='font-size: 2em; font-weight: bold; margin-left: -10px;'>Abnersgarage</span>"
+title      : "<span style='font-size: 1em; font-weight: bold; margin-left: -1px;'>Abnersgarage</span>"
 email      : abnertoco@gmail.com
 description: "Abnersgarage website"
 author     : Abner Solis

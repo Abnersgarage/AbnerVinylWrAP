@@ -1,10 +1,11 @@
 ---
-en:
+en: &DEFAULT_EN
   header:
     title: Welcome to our Shop!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
+ 
   services:
     title: Services
     text: Here to serve Napa County with your automotive needs!
@@ -22,11 +23,13 @@ en:
         desc: "Over **20** years of automotive maintinance experience, Oil Change,
           repairs and more "
         icon: fab fa-markdown
+ 
   portfolio:
     title: Portfolio
     text: Latest projects at Abners Garage
     section: portfolio
     closebutton: Close Project
+ 
   timeline:
     title: Timeline
     text: Lorem ipsum timeline
@@ -60,6 +63,7 @@ en:
         alt: null
         align: right
     end: Be Part <br> of Our <br> Story!
+  
   about:
     title: About Us
     text: our story
@@ -72,6 +76,7 @@ en:
       showcasing the latest projects on our channel, AbnersGarage is all about
       precision, style, and passion for the automotive world"
     section: about
+ 
   clients:
     section: clients
     max-height: 100px
@@ -89,6 +94,7 @@ en:
       - title: Creative Market
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
+ 
   team:
     title: OUR AMAZING TEAM
     text: Lorem ipsum dolor sit amet consectetur.
@@ -106,6 +112,7 @@ en:
       - name: Noe Cigarroa
         role: Vinyl Wrap Technician
         image: assets/img/team/500x500.jpg
+ 
   contact:
     title: Contact Us
     text: "Text or call for a free qoute! 707-624-0045 "

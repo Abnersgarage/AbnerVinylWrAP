@@ -110,10 +110,11 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "With over **40** combined years of experience we are ready for any of your automotive needs!"
+    subtext: We stand on Automotive excellence with each clients needs as our top priority!
     section: team
     people:
+      - name: Abner Solis 
         role: CEO/Founder
         image: assets/img/abner.jpg
       - name: Hugo Solis
@@ -125,7 +126,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Call or Text for a free qoute! 707-624-0045"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

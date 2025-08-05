@@ -118,7 +118,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Call or Text for a free qoute! 707-624-0045"
+    text: "<p style='color: white;'>📞 CALL or TEXT for a FREE quote! 707-624-0045</p>"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
+    - title: "Request a Quote"
       section: contact
     
 en-US:

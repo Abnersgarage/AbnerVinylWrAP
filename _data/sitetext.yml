@@ -18,16 +18,16 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Here to serve Napa County with your automotive needs!"
+    text: "Here to serve Napa County with your automotive needs! Get a custom vinyl wrap quote today!"
     section: services
     list:
       - title: Vinyl Wrap
         desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call
-          for a free qoute!
+          for a free quote!
         icon: fas fa-shopping-cart
       - title: Automotive customization
         desc: Offering aftermarket installation for vehicles including lights
-          suspension and more.
+          suspension and more. Text or call for a free quote!
         icon: fas fa-laptop
       - title: Auto Services/Maintenance
         desc: "Over **20** years of automotive maintenance experience, Oil Change,

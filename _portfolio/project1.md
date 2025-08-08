@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Mercedes-Benz S550
+subtitle: Vinyl wrap in 6-D carbon fiber
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 

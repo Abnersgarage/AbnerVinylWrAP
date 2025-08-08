@@ -1,7 +1,7 @@
 ---
 title: Alfa Romeo Giulia
 subtitle: Vinyl Wrapped in British racing green
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/alfa.jpg
 alt: 
 
 caption:

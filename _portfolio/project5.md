@@ -7,7 +7,7 @@ alt:
 caption:
   title: Tesla model Y
   subtitle: Two tone vinyl wrap
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/teslasmall.jpg
 ---
 James came in with his all white Tesla model Y with his vinyl personally sourced. The color was Uber Red a very rare color choice limited to tesla model. The car was fully wrapped including a satin black two tone Pillar look. Including the A,B And C pillars. 
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Volkswagen Jetta
+subtitle: Vinyl Wrap Gold 
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Volkswagen Jetta
+  subtitle: Vinyl Wrap
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Full Vinyl wrap from grey to mettalic gold from techwrap, the jetta was also kitted with a GLI style front bumper and the interrior had a large change with a starlight headliner 450pc count. 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: October 2024
+- Client: Mike 
+- Category: Vinyl Wrap 
 

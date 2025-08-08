@@ -36,7 +36,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Latest completed projects! "
+    text: "Latest completed projects! Click on the image to learn more!! "
     section: portfolio
     closebutton: "Close Project"
 

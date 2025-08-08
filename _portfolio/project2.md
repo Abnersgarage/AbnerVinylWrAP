@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Benz C300
 subtitle: Vinyl wrap in Satin black with window trim Chrome Delete 
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/c300.jpg
 alt: Keep Exploring
 
 caption:

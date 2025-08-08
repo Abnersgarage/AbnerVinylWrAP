@@ -1,7 +1,7 @@
 ---
 title: Tesla model Y
 subtitle: Vinyl wrap
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/modely.jpg
 alt: 
 
 caption:

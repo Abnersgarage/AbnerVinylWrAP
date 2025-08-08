@@ -1,7 +1,7 @@
 ---
 title: Honda Accord sport
 subtitle: Full Vinyl wrap/Customized
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/hondasport.jpg
 alt: 
 
 caption:

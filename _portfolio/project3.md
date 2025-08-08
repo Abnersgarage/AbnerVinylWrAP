@@ -7,7 +7,7 @@ alt:
 caption:
   title: Alfa Romeo Giulia
   subtitle: British racing green vinyl wrap
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/alfa.jpg
 ---
 This Alfa Romeo Giulia was orignally grey and with the full green wrap conversion changed the whole look of the car. The interrior was also modified to have 450pc Starlight headliner. 
 

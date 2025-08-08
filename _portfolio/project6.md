@@ -1,7 +1,7 @@
 ---
 title: Volkswagen Jetta
 subtitle: Vinyl Wrap Gold 
-image: assets/img/portfolio/06-full.jpg
+image: assets/img/portfolio/gli.jpg
 alt: 
 
 caption:

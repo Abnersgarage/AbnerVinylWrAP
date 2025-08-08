@@ -5,14 +5,14 @@ image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Mercedes-Benz S550
+  subtitle: Full 6-D carbon fiber
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Client came in with an all white Mercedes S550 looking to change the look. We went over many different options and landed on a all black 6-D carbon fiber wrap.  
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: June 2025
+- Client: Clara
+- Category: Full Vinyl wrap 
 

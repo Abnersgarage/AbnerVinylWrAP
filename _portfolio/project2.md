@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: Mercedes-Benz C300
   subtitle: Vinyl Wrap Satin black
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/c300small.jpg
 ---
 Client came in with a unique request to convert his glossy black Mercedes to a satin black. Including all of the chrome exclusing the shining mercedes logo in the front. 
 

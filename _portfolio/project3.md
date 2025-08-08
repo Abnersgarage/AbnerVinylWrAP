@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Alfa Romeo Giulia
+subtitle: Vinyl Wrapped in British racing green
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Alfa Romeo Giulia
+  subtitle: British racing green vinyl wrap
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This Alfa Romeo Giulia was orignally grey and with the full green wrap conversion changed the whole look of the car. The interrior was also modified to have 450pc Starlight headliner. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: April 20205
+- Client: Richard
+- Category: Vinyl Wrap
 

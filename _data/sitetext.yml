@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to AbnersGarage!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    text: Full Vehicle Wraps Starting at $1800 !
+    button: See Our Work
     buttonlink: "#services"
 
   services:
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Latest completed projects! Click on the image to learn more!! "
+    text: "Explore Our Work – Click a Car for Full Details"
     section: portfolio
     closebutton: "Close Project"
 

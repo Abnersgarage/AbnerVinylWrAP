@@ -122,8 +122,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://instagram.com
+      - url: https://instagram.com/abnersgarage/
         icon: "fab fa-instagram"
+      -url: https://www.youtube.com/@Abnersgarage
+        icon: "fab fa-youtube"
 
 en-001: #English (World)
   <<: *DEFAULT_EN

@@ -71,16 +71,11 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-     
-about:
-  title: What We Offer
-  text: Pricing
-  body:
-    "**Full Vehicle Wraps** – Starting at $1,800"
-    "**Partial Wraps & Accents** – From $500"
-    "**Custom Graphics & Stripes** – From $250"
-    "**Chrome Delete** – From $200"
-  section: about
+  about:
+    title: What We Offer
+    text: Pricing
+    body: "**Full Vehicle Wraps** – Starting at $1,800, Partial Wraps & Accents** – From $500, Custom Graphics & Stripes** – From $250, **Chrome Delete** – From $200"
+    section: about
 
   clients:
     section: clients

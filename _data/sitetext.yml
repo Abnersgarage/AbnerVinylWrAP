@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Full Vehicle Wraps Starting at $1800!
-    text: Welcome to Abnersgarage!
+    text: Welcome!
     button: See Our Work
     buttonlink: "#portfolio"
 

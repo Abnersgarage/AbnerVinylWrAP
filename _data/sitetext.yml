@@ -41,8 +41,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Our Story"
+    text: "Learn more"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -72,15 +72,12 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "AbnersGarage started as a passion project fueled by a love for cars and
-      creativity. Starting off on YouTube as a way to share car builds and DIY
-      tips quickly grew into something bigger. Our mission is simple: transform vehicles into unique works
-      of art while sharing the journey with an amazing community of car
-      enthusiasts. Whether it’s a full color change, custom graphics, or
-      showcasing the latest projects on our channel, AbnersGarage is all about
-      precision, style, and passion for the automotive world"
+    title: "What We Offer"
+    text: "Pricing"
+    body: "Full Vehicle Wraps – Starting at $1,800
+           Partial Wraps & Accents – From $500
+           Custom Graphics & Stripes – From $250
+           Chrome Delete – From $200"
     section: about
 
   clients:

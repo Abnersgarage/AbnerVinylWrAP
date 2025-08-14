@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Full Vehicle Wraps Starting at $1800 !
+    title: Full Vehicle Wraps Starting at $1800!
     text: Welcome to Abnersgarage!
     button: See Our Work
     buttonlink: "#portfolio"
@@ -22,15 +22,15 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: Vinyl Wrap
-        desc: Offering Full wraps, partial vinyl wraps, and chrome delete. Text or call
+        desc: Offering full wraps, partial vinyl wraps, and chrome delete. Text or call
           for a free quote!
         icon: fas fa-shopping-cart
       - title: Automotive customization
-        desc: Offering aftermarket installation for vehicles including lights
+        desc: Offering aftermarket installation for vehicles including lights,
           suspension and more. Text or call for a free quote!
         icon: fas fa-laptop
       - title: Auto Services/Maintenance
-        desc: "Over **20** years of automotive maintenance experience, Oil Change,
+        desc: "Over **20** years of automotive maintenance experience, oil Change,
           repairs and more "
         icon: fab fa-markdown
 
@@ -55,7 +55,7 @@ en: &DEFAULT_EN
         alt: null
       - title: "Passing the Torch"
         year: March 2017
-        desc: Decades later, Hugo passed his knowledge and passion to his son, Abner Solis. Their first joint project a 1982 Toyota Pickup, together accomplished a full restoration, from rust repair to upholstery and a flawless paint finish.
+        desc: Decades later, Hugo passed his knowledge and passion to his son, Abner Solis. Their first joint project, a 1982 Toyota Pickup together accomplished a full restoration, from rust repair to upholstery and a flawless paint finish.
         image: assets/img/timeline/2.jpg
         alt: null
       - title: "AbnersGarage is Born "
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "With over **40** combined years of experience we are ready for any of your automotive needs!"
-    subtext: We stand on Automotive excellence with each clients needs as our top priority!
+    subtext: We stand on Automotive excellence, with each clients needs as our top priority!
     section: team
     people:
       - name: Abner Solis 

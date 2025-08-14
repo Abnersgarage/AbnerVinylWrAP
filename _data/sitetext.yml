@@ -48,23 +48,23 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: Our Humble Beginnings
+      - title: Where It All Began
         year: "1983"
         desc: It all started in Napa Valley, where Hugo Solis opened a small, privately owned autobody and paint shop. Specializing in full paint jobs for classic cars like Mustangs, Chevrolets, and Mercedes-Benz, Hugo built a reputation for craftsmanship and attention to detail.
         image: assets/img/timeline/1.jpg
         alt: null
-      - title: The Torch is passed on
+      - title: "Passing the Torch"
         year: March 2017
         desc: Decades later, Hugo passed his knowledge and passion to his son, Abner Solis. Their first joint project a 1982 Toyota Pickup, together accomplished a full restoration, from rust repair to upholstery and a flawless paint finish.
         image: assets/img/timeline/2.jpg
         alt: null
-      - title: "2020"
+      - title: "AbnersGarage is Born "
         year: "2020"
         desc: With help from his father, Abner created AbnersGarage, turning years of hands-on experience into a modern shop for custom car projects.
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: Title
-        year: 2020-present
+      - title: "Innovation"
+        year: 2025
         desc: From pioneering the world’s first Mercedes R107 and R171 chassis swap to offering premium vinyl wrap services across Napa, Fairfield, and Vacaville, AbnersGarage continues to push boundaries while staying true to its roots.
         image: assets/img/timeline/4.jpg
         alt:

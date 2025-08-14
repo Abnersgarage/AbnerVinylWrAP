@@ -49,26 +49,22 @@ en: &DEFAULT_EN
     events:
       - title: Our Humble Beginnings
         year: "1983"
-        desc: Experience with Hugo Solis began in Napa Valley serving as a privaetly
-          owned autobody and paint shop. Specialized in full paintjobs of
-          classic vehicles. Working on classic Mustangs, Chevrolet and Mercedes-Benz vehicles.
+        desc: It all started in Napa Valley, where Hugo Solis opened a small, privately owned autobody and paint shop. Specializing in full paint jobs for classic cars like Mustangs, Chevrolets, and Mercedes-Benz, Hugo built a reputation for craftsmanship and attention to detail.
         image: assets/img/timeline/1.jpg
         alt: null
       - title: The Torch is passed on
         year: March 2017
-        desc: Hugo Solis's Skills and knowledge is passed onto his son Abner Solis with
-          their first joint project a 1982 Toyota Pickup Truck. The project involved full restoration of rust, upholstery and a finished paintjob. 
+        desc: Decades later, Hugo passed his knowledge and passion to his son, Abner Solis. Their first joint project a 1982 Toyota Pickup, together accomplished a full restoration, from rust repair to upholstery and a flawless paint finish.
         image: assets/img/timeline/2.jpg
         alt: null
       - title: "2020"
         year: "2020"
-        desc: Abner Solis founded Abnersgarage with the help of his father Hugo, The start of automotive customization began. 
+        desc: With help from his father, Abner created AbnersGarage, turning years of hands-on experience into a modern shop for custom car projects.
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: Title
         year: 2020-present
-        desc: The start of the worlds first Mercedes r107 and r171 chassis swap began in
-          the garage. As well as client ran vinyl wrap services around Napa California, Fairfield and Vacaville. 
+        desc: From pioneering the world’s first Mercedes R107 and R171 chassis swap to offering premium vinyl wrap services across Napa, Fairfield, and Vacaville, AbnersGarage continues to push boundaries while staying true to its roots.
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment

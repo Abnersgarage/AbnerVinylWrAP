@@ -5,18 +5,19 @@ title: Request a Quote
 permalink: /quote/
 ---
 
-<form action="https://formspree.io/f/yourformid" method="POST">
-  <label for="name">Name*</label>
-  <input type="text" name="name" placeholder="Name*" required>
+<form action="https://formsubmit.co/abnertoco@gmail.com" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" name="name" required><br><br>
 
-  <label for="email">Email*</label>
-  <input type="email" name="email" placeholder="Email*" required>
+  <label for="email">Email:</label><br>
+  <input type="email" name="email" required><br><br>
 
-  <label for="phone">Phone Number</label>
-  <input type="text" name="phone" placeholder="Phone Number">
+  <label for="phone">Phone Number:</label><br>
+  <input type="text" name="phone"><br><br>
 
-  <label for="message">Message*</label>
-  <textarea name="message" placeholder="Message*" required></textarea>
+  <label for="message">Quote Details:</label><br>
+  <textarea name="message" required></textarea><br><br>
 
-  <button type="submit">Send Message</button>
+  <button type="submit">Send Quote Request</button>
 </form>
+

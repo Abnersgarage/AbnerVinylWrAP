@@ -89,7 +89,7 @@ about:
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assests/img/3m.png
+        logo: assets/img/3m.png
 
 
   team:
@@ -128,7 +128,7 @@ about:
     social:
       - url: https://instagram.com/abnersgarage/
         icon: "fab fa-instagram"
-      -url: https://www.youtube.com/@Abnersgarage
+      - url: https://www.youtube.com/@Abnersgarage
         icon: "fab fa-youtube"
 
 en-001: #English (World)

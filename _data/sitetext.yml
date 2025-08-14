@@ -76,10 +76,10 @@ about:
   title: What We Offer
   text: Pricing
   body:
-    - "**Full Vehicle Wraps** – Starting at $1,800"
-    - "**Partial Wraps & Accents** – From $500"
-    - "**Custom Graphics & Stripes** – From $250"
-    - "**Chrome Delete** – From $200"
+    "**Full Vehicle Wraps** – Starting at $1,800"
+    "**Partial Wraps & Accents** – From $500"
+    "**Custom Graphics & Stripes** – From $250"
+    "**Chrome Delete** – From $200"
   section: about
 
   clients:

@@ -4,7 +4,7 @@ title: Request a Quote
 permalink: /quote/
 ---
 
-<form action="https://formsubmit.co/abnertoco@.com" method="POST">
+<form action="https://formsubmit.co/abnertoco@gmail.com" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 

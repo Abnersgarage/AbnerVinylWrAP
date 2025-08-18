@@ -1,3 +1,16 @@
 <form action="https://formsubmit.co/abnertoco@gmail.com" method="POST" id="contactForm" novalidate>
   <!-- Hidden fields -->
   <input type="hidden" name="_subject" value="New Contact Form Submission - AbnersGarage">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_next" value="https://abnersgarage.com/thanks/">
+
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="{{ site.data.sitetext.contact.name }}" name="name" required>
+  </div>
+  <div class="form-group">
+    <input type="email" class="form-control" placeholder="{{ site.data.sitetext.contact.email }}" name="email" required>
+  </div>
+  <div class="form-group">
+    <input type="tel" class="form-control" placeholder="{{ site.data.sitetext.contact.phone }}" name="phone">
+  </div>
+  <div class="form-group">
